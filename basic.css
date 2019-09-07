@@ -1,0 +1,19 @@
+body{
+    background-color: gainsboro;
+    align-content: center;
+}
+
+h1:hover{
+    color: blueviolet;
+    border-color: black;
+}
+
+input:hover{
+    color: crimson;
+    background-color: greenyellow;
+}
+
+#mydiv:hover
+{
+    color: blueviolet;
+}
